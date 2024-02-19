@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{11CCDBDA-DB52-894F-9449-4225B3D61632}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MRTK-Keyboard-main/MRTK/SDK/Experimental/NonNativeKeyboard/Scripts/NonNativeKeyboard.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CSVData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InputData.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Instruction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerHit.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="72" Column="2" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StartGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/ShowKeyboard.cs" Line="23" Column="1" />
+      <File FileName="Assets/MRTK-Keyboard-main/MRTK/SDK/Experimental/NonNativeKeyboard/Scripts/NonNativeKeyboard.cs" Line="349" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snowball Game VR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MRTK-Keyboard-main" expanded="True">
+                <Node name="MRTK" expanded="True">
+                  <Node name="SDK" expanded="True">
+                    <Node name="Experimental" expanded="True">
+                      <Node name="NonNativeKeyboard" expanded="True">
+                        <Node name="Scripts" expanded="True">
+                          <Node name="NonNativeKeyboard.cs" selected="True" />
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e16e53e5-6933-4039-9b40-6b4cfa317bde" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

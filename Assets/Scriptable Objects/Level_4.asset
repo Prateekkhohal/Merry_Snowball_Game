@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44cd04f57f7e7413d87efcddb019d79f, type: 3}
+  m_Name: Level_4
+  m_EditorClassIdentifier: 
+  levelIndex: 3
+  levelScreenTime: 2
+  playerData:
+    playerPrefab: {fileID: 8494344255125785570, guid: 4871977ab0992403ab16426914ab6246, type: 3}
+    spawnPoint: {fileID: 8005796042231944387, guid: b9c3ca3c0148a47b7aa03b48c1fec21f, type: 3}
+    playerSpeed: 11
+    movementRange: 7
+  canonData:
+    canonPrefab: {fileID: 4290729425123935313, guid: fdac736d68e454a8f96217ea29266908, type: 3}
+    spawnPoint: {fileID: 2060592774343127816, guid: 218a39fe5fad24cecbfcf910b1760c47, type: 3}
+  rounds:
+  - roundIndex: 0
+    roundTimeLimit: 30
+    roundScreenTimeLimit: 10
+    throwsLimit: 5
+    ballData:
+      ballPrefab: {fileID: 623536160254430229, guid: feaac9dd7a54a48ba823604ea7d9e1ec, type: 3}
+      spawnPoint: {fileID: 7214177596601422034, guid: 4d01b2132d44b4cbd969386984748f74, type: 3}
+      ballSpeed: 32
+  - roundIndex: 1
+    roundTimeLimit: 30
+    roundScreenTimeLimit: 10
+    throwsLimit: 5
+    ballData:
+      ballPrefab: {fileID: 623536160254430229, guid: feaac9dd7a54a48ba823604ea7d9e1ec, type: 3}
+      spawnPoint: {fileID: 7214177596601422034, guid: 4d01b2132d44b4cbd969386984748f74, type: 3}
+      ballSpeed: 32
+  - roundIndex: 2
+    roundTimeLimit: 30
+    roundScreenTimeLimit: 10
+    throwsLimit: 5
+    ballData:
+      ballPrefab: {fileID: 623536160254430229, guid: feaac9dd7a54a48ba823604ea7d9e1ec, type: 3}
+      spawnPoint: {fileID: 7214177596601422034, guid: 4d01b2132d44b4cbd969386984748f74, type: 3}
+      ballSpeed: 32

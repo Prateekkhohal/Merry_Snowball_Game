@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{86018F90-E3E6-9E83-D522-690CF506134F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StartGame.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Instruction.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/InputData.cs" Line="27" Column="42" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="228" Column="6" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="34" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snowball Game Desktop" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="48e84236-25c8-4b42-8272-3decdbecc368" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
